@@ -5,18 +5,18 @@ MileStone_Repo! This repository contains three web development projects showcasi
 ## 1. Blog Site
 A static blog site built using HTML, CSS, and JavaScript. It showcases various blog posts, a home page, and a blog page. This project serves as a foundation for understanding front-end web development.
 
-![Blog Site](Blog screenshot1.png)
-![Blog Site](Blog screenshot2.png)
+![Blog Site](blog-screenshot1.png)
+![Blog Site](blog-screenshot2.png)
 
 ## 2. Movie Search App
 An interactive movie search application using HTML, CSS, and JavaScript. The app fetches movie information from the Open Movie Database (OMDb) API based on user queries. It demonstrates how to work with APIs and dynamically display data on a webpage.
 
-![movie app](Movie screenshot1.png)
+![movie app](movie-screenshot.png)
 
 ## 3. Todo Web App with React
 A dynamic Todo web application built using React JS. Users can add, delete, and update tasks in real-time. React's component-based architecture is utilized to efficiently manage state and provide a smooth user experience.
 
-![todo app](Todo screenshot1.png)
+![todo app](todo-screenshot.png)
 
 ## How to Run the Projects
 
